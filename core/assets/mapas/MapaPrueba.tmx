@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="300" height="18" tilewidth="50" tileheight="50" infinite="0" nextlayerid="4" nextobjectid="5">
+ <tileset firstgid="1" source="Tileset.tsx"/>
+ <layer id="1" name="fondo" width="300" height="18">
+  <data encoding="base64" compression="zlib">
+   eJzt2kGqwjAURuGoqLRYFetMRV2J+9+Vd1Ahg5imITS9yfngh2fzdNDBQdHGGNNUNgA65W4HvQIQ6mDy94NeAQhBrwBo4etV5znTPAA6pe6VxsYB0KH2XgHQYym92sp2sn3kOY0CyufqVRe4f72a8v+/XWS97Bp5Tq+A8oV8PzjH+6yn7CV7R57TK6B8U3r1GWafua7FNm6uAdAptlet55r9nNbxeq5r9ArAmKV8HqRXAMbw+3YAWtArAFqsZOuKtklz2wBkcJSdhvXW36U+Pqe5bQAyuMnuFe2R5rYByOALb9Iubw==
+  </data>
+ </layer>
+ <objectgroup id="2" name="piso">
+  <object id="2" x="2" y="751" width="3046" height="150"/>
+  <object id="4" x="0" y="100" width="50" height="650"/>
+ </objectgroup>
+</map>

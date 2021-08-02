@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="300" height="18" tilewidth="50" tileheight="50" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="Tileset.tsx"/>
+ <layer id="1" name="Capa de patrones 1" width="300" height="18">
+  <data encoding="base64" compression="zlib">
+   eJzt17EKwkAQRdGoVURUEERQ//83TbFFEIRhYRmHnAMPkiXVFhcyT9M0FxmwbdkN0isgKrtBegVEZTdIr4Co7AbpFRCV3SC9AqKyG6RXQFR2g/QKiDq2rbsQPev9Xq+AHt9NOAXPer/XK6DXr9Y82tZn9za9AjLoFVCF/0GgCr0CqhjRlVEDtm23bF9gh1EXAJRxXnZpu62e/+39OuoCgDKey14F9h51AUAZH39oHxs=
+  </data>
+ </layer>
+</map>

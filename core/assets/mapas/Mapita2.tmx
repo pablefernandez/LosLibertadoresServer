@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="300" height="18" tilewidth="50" tileheight="50" infinite="0" nextlayerid="5" nextobjectid="29">
+ <tileset firstgid="1" source="Tileset.tsx"/>
+ <layer id="1" name="Capa de patrones 1" width="300" height="18">
+  <data encoding="base64" compression="zlib">
+   eJzt2tFKw0AQheHRoFKNWqx3tagPoV4uiOCl+v4v44RmcLLslgYSwq7/B4dOF5KLhRzCtq2ItJpVxbnqA6BsrdBXAMpAXwEoBX0FoBT0FYBS/Je+Wk21YQAWY311pjnXXESzf+5T67nrcnPo53DkPPb+vF8B9bK+utNsNPfR7J/71HruukNzGDmPuT99BdTL+upR86R5jmb/3KfWc9fl5tDP4ch57P3pK6Be/vzqUnOiOdU0/fepz5Ku3ad104vmVfPm1jhvBxDzfdV11calkXnOv62zrKs+Xayz6CsAMd9XNzLsq7XM/371LsO++hD6CkCa76utDPtqJ/O8X1m6XvqSYV/9CH0FIC0+v+o660H2XTXH+VXcV9ZZ3/LXVfQVgJQl/y8aDoS+AhCz3wNrTTPdVgFYWHfGfltx1tNtFYCF2XlVrdlNt1UAFvYLRTE8ew==
+  </data>
+ </layer>
+ <objectgroup id="2" name="Capa de Objetos 1">
+  <object id="1" x="0" y="750" width="2850" height="150"/>
+  <object id="2" x="3.0303" y="-3.0303" width="100" height="750"/>
+ </objectgroup>
+ <objectgroup id="3" name="Zombies">
+  <object id="5" x="1250.67" y="698.667" width="50" height="50"/>
+  <object id="8" x="1450" y="700" width="50" height="50"/>
+  <object id="10" x="1650" y="700" width="50" height="50"/>
+  <object id="12" x="1350" y="700" width="50" height="50"/>
+  <object id="13" x="1550" y="700" width="50" height="50"/>
+  <object id="14" x="1100" y="700" width="50" height="50"/>
+  <object id="15" x="1150" y="700" width="50" height="50"/>
+  <object id="18" x="1200" y="700" width="50" height="50"/>
+  <object id="19" x="1300" y="700" width="50" height="50"/>
+  <object id="20" x="1400" y="700" width="50" height="50"/>
+  <object id="21" x="1500" y="700" width="50" height="50"/>
+  <object id="22" x="1600" y="700" width="50" height="50"/>
+  <object id="27" x="2100" y="700" width="50" height="50"/>
+ </objectgroup>
+ <objectgroup id="4" name="Power Up">
+  <object id="24" x="1850" y="700" width="50" height="50"/>
+  <object id="25" x="2500" y="700" width="50" height="50"/>
+  <object id="28" x="250" y="700" width="50" height="50"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="300" height="18" tilewidth="50" tileheight="50" infinite="0" nextlayerid="5" nextobjectid="30">
+ <tileset firstgid="1" source="Tileset.tsx"/>
+ <layer id="1" name="Capa de patrones 1" width="300" height="18">
+  <data encoding="base64" compression="zlib">
+   eJztmtFKwzAUQK8WFaXqcL7pUD9CRX0oyHC+qaj//yveYC+mozGBtiTQc+CwbFxKoeQwstUiUquHWIQAEKYWelWSABCGXpUlAIShV2UJAGHoVVkCQBh6VZYAEMZ6tafuqwcS3kuxmZRrNO1Mk7ge476cD+qj+jRwhl4B5MN6daYu1XMJ76XYTOo1mnYmdT30vpwv6kZ9HThDrwDyYb26Uq/VGwnvpdhMyjWadqZJXI9xX85P9Uv9HjhDrwDy4Z9fHak76q5ate/H3o/H3qu16Va9U++9z3L1IrcAEMbvlWvV0rOSafakNctatfG0ZuXuBr0CKA+/VyfS7dVCpmuVfb96lm6v1kKvAKAfv1cX0u3VSqbdm65Lb9Lt1YfQKwDoZ/v8yjXrUn5bNcX51XavrFnv8tcqegUAfeT8v2jzj7m7Qa8AysN+D8T8VpFnBTB33Bn7KRbhIvKsAOaOnVdhfleRZwUwd34AxIVbrw==
+  </data>
+ </layer>
+ <objectgroup id="2" name="Capa de Objetos 1">
+  <object id="1" x="0" y="750" width="4998" height="150"/>
+  <object id="2" x="3.0303" y="-3.0303" width="100" height="750"/>
+  <object id="29" x="4900" y="0" height="750"/>
+ </objectgroup>
+ <objectgroup id="4" name="Power Up">
+  <object id="24" x="1850" y="700" width="50" height="50"/>
+  <object id="25" x="2500" y="700" width="50" height="50"/>
+  <object id="28" x="250" y="700" width="50" height="50"/>
+ </objectgroup>
+</map>
